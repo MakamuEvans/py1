@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="720131e8-0b81-4cd9-b793-7ffd66e82372" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python3.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/django1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,7 +105,7 @@
       <workItem from="1566222635970" duration="81000" />
       <workItem from="1566223879497" duration="221000" />
       <workItem from="1566224119283" duration="806000" />
-      <workItem from="1566992054815" duration="2259000" />
+      <workItem from="1566992054815" duration="2900000" />
     </task>
     <servers />
   </component>
